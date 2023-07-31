@@ -11,32 +11,97 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# PROYECTOS DE INGENIERÍA ESTRUCTURAL
+# **PROYECTOS DE INGENIERÍA ESTRUCTURAL**
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+### [🔗 Automatizacion del Analisis Estructural](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 
-> This is a blockquote following a header.
+> API de Etabs - Python
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Segun los requerimientos de la Normativa Peruana E.030
 
-### Header 3
+When something is important enough, you do it even if the odds are not in your favor.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+### Generacion de Edificaciones Parametricas
+
+> API de Etabs - Python
+
+
+
+### Automatizacion de generacion de Graficos
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+<p align="center">
+<img src="assets\img\Result 1.jpg" width="49%" height="49%"> 
+<img src="assets\img\Result 2.jpg" width="49%" height="49%">
+<p>
+
+### [🔗 Señales Sísmicas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
+> - Tratamiento de señales sismicas
+> - Respuesta Dinamica de varios grados de Libertad con Newmark
+> - Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
+> <center>Sismo de Piso 2007</center>
+> <center>Esacion UNICA (ICA)</center>
+> <Center>
+> 
+>| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
+> |:-----|:--------- |:----------|:---------|
+>| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
+>| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
+>| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
+>| 0.03 |  -0.2015  |  -0.7075	 |  1.3257  |
+>| ...  |     ...   |    ...    |   ...    |
+>|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
+>|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
+>
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+import scipy as sp
+import pandas as pd
 ```
+
+<p align="center">
+<img src="assets\img\señal sismica.png" width="100%" height="100%"> 
+<img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
+<p>
+
+El sistema de ecuaciones diferenciales que es usado en los problemas dinamicos define la ecuación:
+
+$$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
+
+<p align="center">
+<img src="assets\img\basic_animation2.gif" width="80%" height="100%"> 
+<img src="assets\img\basic_animation.gif" width="40%" height="20%"> 
+<p>
+
+## **Diseño Estructural**
+### [🔗 Diagrama de Interaccion de Columnas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
+
+<p align="center">
+<img src="assets\img\DI columna.png" width="100%" height="100%"> 
+<p>
+
+### Diseño de Vigas y Zapatas
+
+
+<p align="center">
+<img src="assets\img\Mem Intro.png" width="100%" height="100%"> 
+<img src="assets\img\Mem Viga.png" width="100%" height="100%"> 
+<img src="assets\img\Mem MuroC.png" width="100%" height="100%"> 
+<img src="assets\img\Mem Cimen.png" width="100%" height="100%"> 
+<p>
+
+<p align="left">
+<img src="assets\img\zapata y viga 3D.gif" width="95%" height="90%"> 
+<p>
 
 #### Header 4
 
@@ -52,12 +117,7 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 ### There's a horizontal rule below this.
 
