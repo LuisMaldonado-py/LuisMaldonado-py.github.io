@@ -104,11 +104,9 @@ $$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
 <p>
 
 #### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+<p align="center">
+<img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
+<p>
 ##### Header 5
 
 1.  This is an ordered list following a header.
