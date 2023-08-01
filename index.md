@@ -11,25 +11,32 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# **PROYECTOS DE INGENIERÍA ESTRUCTURAL**
+<center><span style="font-size: 22px;"><strong> PROYECTOS DE INGENIERÍA ESTRUCTURAL </strong></center>
+
+---
 
 <p align="center">
-<img src="assets\img\jupyter logo.png" width="4.6%" height="10%"> 
-<img src="assets\img\python logo.png" width="5%" height="10%">
-<img src="assets\img\vs code logo.png" width="5%" height="10%">
-<img src="assets\img\etabs logo.png" width="5%" height="10%">
-<img src="assets\img\sap2000 logo.png" width="5%" height="10%">
-<img src="assets\img\safe logo.png" width="5%" height="10%">
-<img src="assets\img\revit logo.png" width="6.3%" height="10%">
-<img src="assets\img\autocad logo1.png" width="5.6%" height="10%">
-<img src="assets\img\excel logo.png" width="5.45%" height="10%">
-<img src="assets\img\mathcad logo.png" width="4.5%" height="10%">
+<img src="assets\img\jupyter logo.png" width="5.6%" height="10%"> 
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\github logo.png" width="6.25%" height="10%">
+<img src="assets\img\etabs logo.png" width="6%" height="10%">
+<img src="assets\img\sap2000 logo.png" width="6%" height="10%">
+<img src="assets\img\safe logo.png" width="6%" height="10%">
+<img src="assets\img\revit logo.png" width="7.3%" height="10%">
+<img src="assets\img\autocad logo1.png" width="6.6%" height="10%">
+<img src="assets\img\excel logo.png" width="6.45%" height="10%">
+<img src="assets\img\mathcad logo.png" width="5.5%" height="10%">
 </p>
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-### [🔗 Automatizacion del Analisis Estructural](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+## Automatizacion del Analisis Sísmico - E030
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+
+
 
 > API de Etabs - Python
 > 
@@ -37,14 +44,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 When something is important enough, you do it even if the odds are not in your favor.
 
-### Generacion de Edificaciones Parametricas
+## Generacion de Edificaciones Parametricas
 
 > API de Etabs - Python
 > 
 > 
 
 
-### Automatizacion de generacion de Graficos
+
+## Automatizacion de generacion de Graficos
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -56,7 +64,10 @@ import pandas as pd
 <img src="assets\img\Result 2.jpg" width="49%" height="49%">
 </p>
 
-### [🔗 Señales Sísmicas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
+## Señales Sísmicas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
+
 > Tratamiento de señales sismicas
 >
 > Respuesta Dinamica de varios grados de Libertad con Newmark. 
@@ -86,34 +97,41 @@ import pandas as pd
 
 
 
-
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
 </p>
 
 El sistema de ecuaciones diferenciales que es usado en los problemas dinamicos define la ecuación:
+$M \ddot{x} + C\dot{x}+ K x = M J a(t)$
 
-$$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
 
 <p align="center">
-<img src="assets\img\basic_animation2.gif" width="90%" height="100%"> 
-<img src="assets\img\basic_animation.gif" width="40%" height="20%"> 
+<img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
+<img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
 
-## **Diseño Estructural**
+
+<center><span style="font-size: 22px;"><strong> Diseño Estructural </strong></center>
+
+---
+
+
 Memorias de Calculo realizadas para el diseño estructural de elementos estructurasles de concreto armado y albañileria bajo las consideraciones de las normas E030, E60 y E070.
 Plantillas Excel y Jupyter Notebooks
 
 
-### [🔗 Diagrama de Interaccion de Columnas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
+## Diagrama de Interaccion de Columnas Rectangulares - ACI 318 y E.060
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
 
 <p align="center">
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
 </p>
 
 
-### Diseño de Vigas y Zapatas
+## Diseño de Vigas y Zapatas
 
 
 <p align="center">
@@ -129,7 +147,13 @@ Plantillas Excel y Jupyter Notebooks
 
 
 
-### Apuntes de Ingeniería Estructural
+## Apuntes de Ingeniería Estructural
+Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
+
 
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
