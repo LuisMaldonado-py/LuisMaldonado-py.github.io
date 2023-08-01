@@ -142,7 +142,7 @@ Plantillas Excel y Jupyter Notebooks
 </p>
 
 <p align= "left">
-<img src="assets\img\zapata y viga 3D.gif" width="100%" height="60%"> 
+<img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
 </p>
 
 ---
