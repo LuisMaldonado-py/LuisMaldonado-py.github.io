@@ -11,8 +11,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-<center><span style="font-size: 22px;"><strong> PROYECTOS DE INGENIERÍA ESTRUCTURAL </strong></center>
-
+# PROYECTOS DE INGENIERÍA ESTRUCTURAL
 ---
 
 <p align="center">
