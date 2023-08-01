@@ -18,7 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### [🔗 Automatizacion del Analisis Estructural](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 
 > API de Etabs - Python
->
+> 
 > Segun los requerimientos de la Normativa Peruana E.030
 
 When something is important enough, you do it even if the odds are not in your favor.
@@ -26,7 +26,8 @@ When something is important enough, you do it even if the odds are not in your f
 ### Generacion de Edificaciones Parametricas
 
 > API de Etabs - Python
-
+> 
+> 
 
 
 ### Automatizacion de generacion de Graficos
@@ -39,14 +40,14 @@ import pandas as pd
 <p align="center">
 <img src="assets\img\Result 1.jpg" width="49%" height="49%"> 
 <img src="assets\img\Result 2.jpg" width="49%" height="49%">
-<p>
+</p>
 
 ### [🔗 Señales Sísmicas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
 > - Tratamiento de señales sismicas
 > - Respuesta Dinamica de varios grados de Libertad con Newmark
 > - Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
-> <center>Sismo de Piso 2007</center>
-> <center>Esacion UNICA (ICA)</center>
+> <center><strong> Sismo de Piso 2007 </strong></center>
+> <center><em>Esacion UNICA (ICA) </em></center>
 > <Center>
 > 
 >| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
@@ -61,52 +62,73 @@ import pandas as pd
 >
 
 ```python
+# Librerias
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import scipy as sp
 import pandas as pd
 ```
+<center><strong> Sismo de Piso 2007 </strong></center>
+<center><em>Esacion UNICA (ICA) </em></center>
+<Center>
+ 
+| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
+|:-----|:--------- |:----------|:---------|
+| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
+| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
+| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
+| 0.03 |  -0.2015  |  -0.7075	 |  1.3257  |
+| ...  |     ...   |    ...    |   ...    |
+|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
+|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
+
+
 
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
-<p>
+</p>
 
 El sistema de ecuaciones diferenciales que es usado en los problemas dinamicos define la ecuación:
 
 $$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
 
 <p align="center">
-<img src="assets\img\basic_animation2.gif" width="80%" height="100%"> 
+<img src="assets\img\basic_animation2.gif" width="90%" height="100%"> 
 <img src="assets\img\basic_animation.gif" width="40%" height="20%"> 
-<p>
+</p>
 
 ## **Diseño Estructural**
 ### [🔗 Diagrama de Interaccion de Columnas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 
 <p align="center">
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
-<p>
+</p>
 
 ### Diseño de Vigas y Zapatas
 
 
 <p align="center">
-<img src="assets\img\Mem Intro.png" width="100%" height="100%"> 
-<img src="assets\img\Mem Viga.png" width="100%" height="100%"> 
-<img src="assets\img\Mem MuroC.png" width="100%" height="100%"> 
-<img src="assets\img\Mem Cimen.png" width="100%" height="100%"> 
-<p>
+<img src="assets\img\Mem Intro.png" width="95%" height="90%"> 
+<img src="assets\img\Mem Viga.png" width="95%" height="100%"> 
+<img src="assets\img\Mem MuroC.png" width="95%" height="100%"> 
+<img src="assets\img\Mem Cimen.png" width="95%" height="100%"> 
+</p>
 
-<p align="left">
-<img src="assets\img\zapata y viga 3D.gif" width="95%" height="90%"> 
-<p>
+<p align= "center">
+<img src="assets\img\zapata y viga 3D.gif" width="80%" height="60%"> 
+</p>
+
+
+
+
 
 #### Header 4
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
-<p>
+</p>
+
 ##### Header 5
 
 1.  This is an ordered list following a header.
