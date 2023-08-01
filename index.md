@@ -31,6 +31,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+---
+
 ## Automatizacion del Analisis Sísmico - E030
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
@@ -43,13 +45,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 When something is important enough, you do it even if the odds are not in your favor.
 
+---
+
 ## Generacion de Edificaciones Parametricas
 
 > API de Etabs - Python
 > 
 > 
 
-
+---
 
 ## Automatizacion de generacion de Graficos
 ```python
@@ -62,6 +66,8 @@ import pandas as pd
 <img src="assets\img\Result 1.jpg" width="49%" height="49%"> 
 <img src="assets\img\Result 2.jpg" width="49%" height="49%">
 </p>
+
+---
 
 ## Señales Sísmicas
 
@@ -110,8 +116,9 @@ $M \ddot{x} + C\dot{x}+ K x = M J a(t)$
 <img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
 
+---
 
-<center><span style="font-size: 22px;"><strong> Diseño Estructural </strong></center>
+# Diseño Sísmico
 
 ---
 
@@ -144,7 +151,7 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\zapata y viga 3D.gif" width="80%" height="60%"> 
 </p>
 
-
+---
 
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
@@ -157,6 +164,7 @@ Apuntes realizados en una pizarrar digital para el uso academico y profesional. 
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
 </p>
+---
 
 ## Header 5
 
