@@ -58,16 +58,6 @@ When something is important enough, you do it even if the odds are not in your f
 ---
 
 ## Automatizacion de generacion de Graficos
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-```
-
-<p align="center">
-<img src="assets\img\Result 1.jpg" width="49%" height="49%"> 
-<img src="assets\img\Result 2.jpg" width="49%" height="49%">
-</p>
 
 ---
 
@@ -142,15 +132,14 @@ Plantillas Excel y Jupyter Notebooks
 ## Diseño de Vigas y Zapatas
 
 
-<p align="center">
-<img src="assets\img\Mem Intro.png" width="95%" height="90%"> 
-<img src="assets\img\Mem Viga.png" width="95%" height="100%"> 
-<img src="assets\img\Mem MuroC.png" width="95%" height="100%"> 
-<img src="assets\img\Mem Cimen.png" width="95%" height="100%"> 
-</p>
+
 
 <p align= "center">
-<img src="assets\img\zapata y viga 3D.gif" width="80%" height="60%"> 
+<img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
+</p>
+
+<p align= "left">
+<img src="assets\img\zapata y viga 3D.gif" width="100%" height="60%"> 
 </p>
 
 ---
