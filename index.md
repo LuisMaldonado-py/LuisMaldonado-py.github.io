@@ -55,9 +55,19 @@ When something is important enough, you do it even if the odds are not in your f
 > 
 > 
 
+
+<p align="center">
+<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
+</p>
+
 ---
 
 ## Automatizacion de generacion de Graficos
+
+
+<p align="center">
+<img src="assets\img\Calibracion.gif" width="100%" height="100%">
+</p>
 
 ---
 
@@ -71,14 +81,7 @@ When something is important enough, you do it even if the odds are not in your f
 >
 > Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
-```python
-# Librerias
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
-import scipy as sp
-import pandas as pd
-```
+
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em>Esacion UNICA (ICA) </em></center>
 
