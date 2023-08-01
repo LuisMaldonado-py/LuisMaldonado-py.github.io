@@ -43,15 +43,18 @@ import pandas as pd
 </p>
 
 ### [🔗 Señales Sísmicas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
-> - Tratamiento de señales sismicas
-> - Respuesta Dinamica de varios grados de Libertad con Newmark
-> - Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
+> Tratamiento de señales sismicas
+>
+> Respuesta Dinamica de varios grados de Libertad con Newmark. 
+>
+> Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 > <center><strong> Sismo de Piso 2007 </strong></center>
 > <center><em>Esacion UNICA (ICA) </em></center>
+
 > <Center>
 > 
 >| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
-> |:-----|:--------- |:----------|:---------|
+>|:-----|:--------- |:----------|:---------|
 >| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
 >| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
 >| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
@@ -59,7 +62,7 @@ import pandas as pd
 >| ...  |     ...   |    ...    |   ...    |
 >|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
 >|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
->
+></Center>
 
 ```python
 # Librerias
@@ -82,7 +85,7 @@ import pandas as pd
 | ...  |     ...   |    ...    |   ...    |
 |218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
 |218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
-
+</Center>
 
 
 <p align="center">
@@ -100,11 +103,16 @@ $$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
 </p>
 
 ## **Diseño Estructural**
+Memorias de Calculo realizadas para el diseño estructural de elementos estructurasles de concreto armado y albañileria bajo las consideraciones de las normas E030, E60 y E070.
+Plantillas Excel y Jupyter Notebooks
+
+
 ### [🔗 Diagrama de Interaccion de Columnas](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 
 <p align="center">
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
 </p>
+
 
 ### Diseño de Vigas y Zapatas
 
@@ -122,14 +130,13 @@ $$ M \ddot{x} + C\dot{x}+ K x = M J a(t) $$
 
 
 
+### Apuntes de Ingeniería Estructural
 
-
-#### Header 4
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
 </p>
 
-##### Header 5
+## Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
