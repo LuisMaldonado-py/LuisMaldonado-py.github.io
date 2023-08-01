@@ -18,13 +18,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%"> 
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\github logo.png" width="6.25%" height="10%">
+<img src="assets\img\github logo.png" width="6.2%" height="10%">
 <img src="assets\img\etabs logo.png" width="6%" height="10%">
 <img src="assets\img\sap2000 logo.png" width="6%" height="10%">
 <img src="assets\img\safe logo.png" width="6%" height="10%">
-<img src="assets\img\revit logo.png" width="7.3%" height="10%">
-<img src="assets\img\autocad logo1.png" width="6.6%" height="10%">
-<img src="assets\img\excel logo.png" width="6.45%" height="10%">
+<img src="assets\img\revit logo.png" width="7.6%" height="10%">
+<img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\mathcad logo.png" width="5.5%" height="10%">
 </p>
 
@@ -34,10 +34,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ---
 
 ## Automatizacion del Analisis Sísmico - E030
+Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
+<p align="center">
+<img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
+</p>
 
 
 
@@ -73,7 +77,9 @@ When something is important enough, you do it even if the odds are not in your f
 
 ## Señales Sísmicas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
+
 
 > Tratamiento de señales sismicas
 >
@@ -123,7 +129,8 @@ Plantillas Excel y Jupyter Notebooks
 
 
 ## Diagrama de Interaccion de Columnas Rectangulares - ACI 318 y E.060
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
 
@@ -149,10 +156,13 @@ Plantillas Excel y Jupyter Notebooks
 
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/MConten.pdf)
 
 
 <p align="center">
