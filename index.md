@@ -11,16 +11,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# **PORTAFOLIO**
+<center><span style="font-size: 40px;"><b>PORTAFOLIO</b></span></center>
 
-# _PROYECTOS DE INGENIERÍA ESTRUCTURAL_
+
+# PROYECTOS DE INGENIERÍA ESTRUCTURAL
 
 
 <p align="center">
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%"> 
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\github logo.png" width="6.2%" height="10%">
+<img src="assets\img\anaconda logo.png" width="6.4%" height="10%">
+<img src="assets\img\github logo.png" width="6.35%" height="10%">
 <img src="assets\img\etabs logo.png" width="6%" height="10%">
 <img src="assets\img\sap2000 logo.png" width="6%" height="10%">
 <img src="assets\img\safe logo.png" width="6%" height="10%">
@@ -28,6 +30,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\mathcad logo.png" width="5.5%" height="10%">
+</p>
+
+
+
+<p align="center">
+<img src="assets\img\matplotlib.png" width="12%" height="12%">
+<img src="assets\img\plotly logo.png" width="9.6%" height="10%"> 
+<img src="assets\img\numpy logo.png" width="10.2%" height="10%">
+<img src="assets\img\pandas logo.png" width="10.2%" height="10%">
 </p>
 
 
@@ -45,10 +56,7 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 <img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
 </p>
 
-
-
 > API de Etabs - Python
-> 
 > Segun los requerimientos de la Normativa Peruana E.030
 
 When something is important enough, you do it even if the odds are not in your favor.
@@ -58,9 +66,6 @@ When something is important enough, you do it even if the odds are not in your f
 ## Generacion de Edificaciones Parametricas
 
 > API de Etabs - Python
-> 
-> 
-
 
 <p align="center">
 <img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
@@ -69,7 +74,6 @@ When something is important enough, you do it even if the odds are not in your f
 ---
 
 ## Automatizacion de generacion de Graficos
-
 
 <p align="center">
 <img src="assets\img\Calibracion.gif" width="100%" height="100%">
