@@ -36,6 +36,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Automatizacion del Analisis Sísmico - E030
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_in_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
+
 
 
 
