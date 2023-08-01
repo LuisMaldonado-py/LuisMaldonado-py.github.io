@@ -13,6 +13,20 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # **PROYECTOS DE INGENIERÍA ESTRUCTURAL**
 
+<p align="center">
+<img src="assets\img\jupyter logo.png" width="4.6%" height="10%"> 
+<img src="assets\img\python logo.png" width="5%" height="10%">
+<img src="assets\img\vs code logo.png" width="5%" height="10%">
+<img src="assets\img\etabs logo.png" width="5%" height="10%">
+<img src="assets\img\sap2000 logo.png" width="5%" height="10%">
+<img src="assets\img\safe logo.png" width="5%" height="10%">
+<img src="assets\img\revit logo.png" width="6.3%" height="10%">
+<img src="assets\img\autocad logo1.png" width="5.6%" height="10%">
+<img src="assets\img\excel logo.png" width="5.45%" height="10%">
+<img src="assets\img\mathcad logo.png" width="4.5%" height="10%">
+</p>
+
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ### [🔗 Automatizacion del Analisis Estructural](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
@@ -48,21 +62,6 @@ import pandas as pd
 > Respuesta Dinamica de varios grados de Libertad con Newmark. 
 >
 > Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
-> <center><strong> Sismo de Piso 2007 </strong></center>
-> <center><em>Esacion UNICA (ICA) </em></center>
-
-> <Center>
-> 
->| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
->|:-----|:--------- |:----------|:---------|
->| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
->| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
->| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
->| 0.03 |  -0.2015  |  -0.7075	 |  1.3257  |
->| ...  |     ...   |    ...    |   ...    |
->|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
->|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
-></Center>
 
 ```python
 # Librerias
@@ -74,21 +73,7 @@ import pandas as pd
 ```
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em>Esacion UNICA (ICA) </em></center>
-<Center>
- 
-| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
-|:-----|:--------- |:----------|:---------|
-| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.03 |  -0.2015  |  -0.7075	 |  1.3257  |
-| ...  |     ...   |    ...    |   ...    |
-|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
-|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
-</Center>
 
-
- 
 | Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
 |:-----|:--------- |:----------|:---------|
 | 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
