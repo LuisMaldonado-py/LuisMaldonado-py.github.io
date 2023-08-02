@@ -1,6 +1,20 @@
-title:  Luis Maldonado
+title: <p align="center"> Luis Maldonado </p>
+
 logo: /assets/img/logo.jpeg
+
 description: Ingeniería Civil - Ing. Estructural
-show_downloads: false
-google_analytics:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/luis-maldonado-de-la-torre/">LinkedIn</a> |
+  <a href="https://github.com/LuisMaldonadoContributions">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
+
+google_analytics: G-ZZYG0XLBM7  # Google Analytics tracking ID
 theme: jekyll-theme-minimal
