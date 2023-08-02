@@ -1,16 +1,3 @@
----
-layout: default
----
-Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la _Universidad Nacional de Ingeniería_. Con interés en la **optimizacion**, **Análisis y Diseño Estructural** y la **Metodología BIM**.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[LinkedIn](https://www.linkedin.com/in/luis-maldonado-de-la-torre/).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 <center><span style="font-size: 40px;"><b>PORTAFOLIO</b></span></center>
 
 <center><span style="font-size: 20px;"><b>PROYECTOS DE INGENIERÍA ESTRUCTURAL</b></span></center>
