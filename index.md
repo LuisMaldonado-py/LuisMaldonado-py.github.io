@@ -4,7 +4,6 @@
 
 ---
 
-
 <p align="center">
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%"> 
 <img src="assets\img\python logo.png" width="6%" height="10%">
@@ -21,16 +20,8 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
-
-
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-
-
 ## **Automatizacion del Analisis Sísmico - E030**
-Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo. 
+Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo.
 
 > API de Etabs - Python
 > Segun los requerimientos de la Normativa Peruana E.030
@@ -38,7 +29,6 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 When something is important enough, you do it even if the odds are not in your favor.
 
 <center>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
@@ -48,6 +38,7 @@ When something is important enough, you do it even if the odds are not in your f
 <p align="center">
 <img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
 </p>
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
@@ -55,14 +46,16 @@ When something is important enough, you do it even if the odds are not in your f
   </div>
 </div>
 
-
 ## Generacion de Edificaciones Parametricas
+Generacion de edificaciones parametricas en ETABS utilizando los conceptos de modelo generativo.
 
+Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprendizaje que tiene como misión aprender cualquier tipo de distribución de datos, todo esto aplicado dentro del paradigma de aprendizaje no supervisado.
 > API de Etabs - Python
 
 <p align="center">
 <img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
 </p>
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
@@ -70,14 +63,17 @@ When something is important enough, you do it even if the odds are not in your f
   </div>
 </div>
 
-</br>
+<br>
 </br>
 
 ## Automatizacion de generacion de Graficos
+Una necesidad de las empresas en la actualidad, es la búsqueda de la automatización de la
+mayoría de sus procesos, esto con el fin de obtener como beneficios la reducción de costos, el incremento de la producción de bienes y servicios, así como mejorar y mantener la calidad de los mismos.
 
 <p align="center">
 <img src="assets\img\calibracion.gif" width="100%" height="100%">
-<p>
+</p>
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
@@ -85,9 +81,8 @@ When something is important enough, you do it even if the odds are not in your f
   </div>
 </div>
 
+<br>
 </br>
-</br>
-
 
 ## Señales Sísmicas
 Tratamiento de señales sismicas
@@ -101,7 +96,6 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
 </center>
 
-
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em> Estacion UNICA (ICA) </em></center>
 
@@ -109,19 +103,21 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
 </p>
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
     <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
   </div>
 </div>
+
 <p align="center">
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
 <img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
 
 
-</br>
+<br>
 </br>
 
 # **Diseño Sísmico**
@@ -131,6 +127,7 @@ Plantillas Excel y Jupyter Notebooks
 
 
 ## Diagrama de Interaccion de Columnas Rectangulares - ACI 318 y E.060
+
 <center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
@@ -145,18 +142,15 @@ Plantillas Excel y Jupyter Notebooks
 
 ## Diseño de Vigas y Zapatas
 
-
 <center> Memoerias de calculo para el analisis Sísmico</center>
 <p align= "center">
 <img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
 </p>
-<br>
 
 <center> Zapata y Viga 3D</center>
 <p align= "left">
 <img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
 </p>
-
 
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
@@ -167,6 +161,7 @@ Apuntes realizados en una pizarrar digital para el uso academico y profesional. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
+
 </center>
 
 <center>
@@ -196,7 +191,6 @@ Apuntes realizados en una pizarrar digital para el uso academico y profesional. 
 <img src="assets\img\pytorch logo.png" width="9.4%" height="10%">
 </p>
 
-
 ---
 
-<center>© 2023 Luis Maldonado de la Torre.</center>
+<center> © 2023 Luis Maldonado de la Torre </center>
