@@ -166,11 +166,12 @@ Plantillas Excel y Jupyter Notebooks
 
 
 
-
+<center> Memoerias de calculo para el analisis Sísmico</center>
 <p align= "center">
 <img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
 </p>
 
+<center> Zapata y Viga 3D</center>
 <p align= "left">
 <img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
 </p>
