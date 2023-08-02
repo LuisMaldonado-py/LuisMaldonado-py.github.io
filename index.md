@@ -21,6 +21,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%"> 
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\colab logo.png" width="8.5%" height="10%">
 <img src="assets\img\anaconda logo.png" width="6.4%" height="10%">
 <img src="assets\img\github logo.png" width="6.35%" height="10%">
 <img src="assets\img\etabs logo.png" width="6%" height="10%">
@@ -35,10 +36,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 <p align="center">
-<img src="assets\img\matplotlib.png" width="12%" height="12%">
-<img src="assets\img\plotly logo.png" width="9.6%" height="10%"> 
-<img src="assets\img\numpy logo.png" width="10.2%" height="10%">
-<img src="assets\img\pandas logo.png" width="10.2%" height="10%">
+<img src="assets\img\matplotlib.png" width="11%" height="10%">
+<img src="assets\img\plotly logo.png" width="8.6%" height="10%"> 
+<img src="assets\img\numpy logo.png" width="9.2%" height="10%">
+<img src="assets\img\pandas logo.png" width="9.2%" height="10%">
+<img src="assets\img\seaborn logo.png" width="11%" height="10%">
+<img src="assets\img\opensees logo.png" width="11.5%" height="10%">
+<img src="assets\img\scipy logo.png" width="7.7%" height="10%">
+<img src="assets\img\streamlit logo.png" width="10.3%" height="10%">
+<img src="assets\img\sympy logo.png" width="9.7%" height="10%">
 </p>
 
 
@@ -97,6 +103,8 @@ When something is important enough, you do it even if the odds are not in your f
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em>Esacion UNICA (ICA) </em></center>
 
+<center>
+
 | Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
 |:-----|:--------- |:----------|:---------|
 | 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
@@ -106,7 +114,7 @@ When something is important enough, you do it even if the odds are not in your f
 | ...  |     ...   |    ...    |   ...    |
 |218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
 |218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
-
+</center>
 
 
 <p align="center">
