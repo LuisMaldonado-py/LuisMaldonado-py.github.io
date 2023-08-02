@@ -21,9 +21,9 @@
 <img src="assets\img\revit logo.png" width="7.6%" height="10%">
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
-<img src="assets\img\mathcad logo.png" width="5.5%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
+
 
 <p align="center">
 <img src="assets\img\matplotlib.png" width="11%" height="10%">
@@ -46,20 +46,21 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 
-## Automatizacion del Analisis Sísmico - E030
+## **Automatizacion del Analisis Sísmico - E030**
 Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
-<p align="center">
-<img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
-</p>
-
 > API de Etabs - Python
 > Segun los requerimientos de la Normativa Peruana E.030
 
 When something is important enough, you do it even if the odds are not in your favor.
+
+<p align="center">
+<img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
+</p>
+
 
 ---
 
@@ -71,15 +72,15 @@ When something is important enough, you do it even if the odds are not in your f
 <img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
 </p>
 
----
+
 
 ## Automatizacion de generacion de Graficos
 
 <p align="center">
-<img src="assets\img\calibracion.gif" width="100%" height="100%">
+<img src="assets\img\calibracion.gif" width="100%" height="97%">
 </p>
 
----
+
 
 ## Señales Sísmicas
 
@@ -105,11 +106,11 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
 
----
 
-# Diseño Sísmico
 
----
+# **Diseño Sísmico**
+
+
 
 
 Memorias de Calculo realizadas para el diseño estructural de elementos estructurasles de concreto armado y albañileria bajo las consideraciones de las normas E030, E60 y E070.
@@ -128,7 +129,6 @@ Plantillas Excel y Jupyter Notebooks
 
 
 ## Diseño de Vigas y Zapatas
-
 
 
 <center> Memoerias de calculo para el analisis Sísmico</center>
