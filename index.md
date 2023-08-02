@@ -45,6 +45,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\scipy logo.png" width="7.7%" height="10%">
 <img src="assets\img\streamlit logo.png" width="10.3%" height="10%">
 <img src="assets\img\sympy logo.png" width="9.7%" height="10%">
+<img src="assets\img\tf logo.png" width="11%" height="10%">
+<img src="assets\img\keras logo.png" width="8.7%" height="10%">
+<img src="assets\img\sl logo.png" width="6.8%" height="10%">
 </p>
 
 
@@ -123,7 +126,9 @@ When something is important enough, you do it even if the odds are not in your f
 </p>
 
 El sistema de ecuaciones diferenciales que es usado en los problemas dinamicos define la ecuación:
-$M \ddot{x} + C\dot{x}+ K x = M J a(t)$
+
+
+$$M \ddot{x} + C\dot{x}+ K x = M J a(t)$$
 
 
 <p align="center">
