@@ -51,6 +51,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\tf logo.png" width="11%" height="10%">
 <img src="assets\img\keras logo.png" width="8.7%" height="10%">
 <img src="assets\img\sl logo.png" width="6.8%" height="10%">
+<img src="assets\img\pytorch logo.png" width="9.4%" height="10%">
 </p>
 
 
@@ -88,7 +89,7 @@ When something is important enough, you do it even if the odds are not in your f
 ## Automatizacion de generacion de Graficos
 
 <p align="center">
-<img src="assets\img\Calibracion.gif" width="100%" height="100%">
+<img src="assets\img\calibracion.gif" width="100%" height="100%">
 </p>
 
 ---
