@@ -13,8 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <center><span style="font-size: 40px;"><b>PORTAFOLIO</b></span></center>
 
+<center><span style="font-size: 20px;"><b>PROYECTOS DE INGENIERÍA ESTRUCTURAL</b></span></center>
 
-# PROYECTOS DE INGENIERÍA ESTRUCTURAL
+---
+<p>
+</p>
+
 
 
 <p align="center">
@@ -31,9 +35,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\mathcad logo.png" width="5.5%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-
-
 
 <p align="center">
 <img src="assets\img\matplotlib.png" width="11%" height="10%">
@@ -53,7 +56,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
----
+
 
 ## Automatizacion del Analisis Sísmico - E030
 Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo. 
