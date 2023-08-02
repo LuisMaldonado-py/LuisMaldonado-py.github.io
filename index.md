@@ -65,6 +65,8 @@ When something is important enough, you do it even if the odds are not in your f
   </div>
 </div>
 
+</br>
+</br>
 
 ## Automatizacion de generacion de Graficos
 
@@ -78,8 +80,8 @@ When something is important enough, you do it even if the odds are not in your f
   </div>
 </div>
 
-<br>
-<br>
+</br>
+</br>
 
 
 ## Señales Sísmicas
@@ -111,8 +113,8 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 </p>
 
 
-<br>
-<br>
+</br>
+</br>
 
 # **Diseño Sísmico**
 
