@@ -1,11 +1,8 @@
-<center><span style="font-size: 40px;"><b>PORTAFOLIO</b></span></center>
+<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
 
 <center><span style="font-size: 20px;"><b>PROYECTOS DE INGENIERÍA ESTRUCTURAL</b></span></center>
 
 ---
-<p>
-</p>
-
 
 
 <p align="center">
@@ -25,21 +22,7 @@
 </p>
 
 
-<p align="center">
-<img src="assets\img\matplotlib.png" width="11%" height="10%">
-<img src="assets\img\plotly logo.png" width="8.6%" height="10%"> 
-<img src="assets\img\numpy logo.png" width="9.2%" height="10%">
-<img src="assets\img\pandas logo.png" width="9.2%" height="10%">
-<img src="assets\img\seaborn logo.png" width="11%" height="10%">
-<img src="assets\img\opensees logo.png" width="11.5%" height="10%">
-<img src="assets\img\scipy logo.png" width="7.7%" height="10%">
-<img src="assets\img\streamlit logo.png" width="10.3%" height="10%">
-<img src="assets\img\sympy logo.png" width="9.7%" height="10%">
-<img src="assets\img\tf logo.png" width="11%" height="10%">
-<img src="assets\img\keras logo.png" width="8.7%" height="10%">
-<img src="assets\img\sl logo.png" width="6.8%" height="10%">
-<img src="assets\img\pytorch logo.png" width="9.4%" height="10%">
-</p>
+
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -60,9 +43,13 @@ When something is important enough, you do it even if the odds are not in your f
 <p align="center">
 <img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
 </p>
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+  </div>
+</div>
 
-
----
 
 ## Generacion de Edificaciones Parametricas
 
@@ -71,15 +58,28 @@ When something is important enough, you do it even if the odds are not in your f
 <p align="center">
 <img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
 </p>
-
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+  </div>
+</div>
 
 
 ## Automatizacion de generacion de Graficos
 
 <p align="center">
-<img src="assets\img\calibracion.gif" width="100%" height="97%">
-</p>
+<img src="assets\img\calibracion.gif" width="100%" height="100%">
+<p>
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+  </div>
+</div>
 
+<br>
+<br>
 
 
 ## Señales Sísmicas
@@ -93,25 +93,28 @@ Respuesta Dinamica de varios grados de Libertad con Newmark.
 Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
 <center><strong> Sismo de Piso 2007 </strong></center>
-<center><em>Esacion UNICA (ICA) </em></center>
+<center><em> Estacion UNICA (ICA) </em></center>
 
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
 </p>
-
-
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+  </div>
+</div>
 <p align="center">
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
 <img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
 
 
+<br>
+<br>
 
 # **Diseño Sísmico**
-
-
-
 
 Memorias de Calculo realizadas para el diseño estructural de elementos estructurasles de concreto armado y albañileria bajo las consideraciones de las normas E030, E60 y E070.
 Plantillas Excel y Jupyter Notebooks
@@ -135,13 +138,13 @@ Plantillas Excel y Jupyter Notebooks
 <p align= "center">
 <img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
 </p>
+<br>
 
 <center> Zapata y Viga 3D</center>
 <p align= "left">
 <img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
 </p>
 
----
 
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
@@ -157,6 +160,23 @@ Apuntes realizados en una pizarrar digital para el uso academico y profesional. 
 
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
+</p>
+
+
+<p align="center">
+<img src="assets\img\matplotlib.png" width="11%" height="10%">
+<img src="assets\img\plotly logo.png" width="8.6%" height="10%"> 
+<img src="assets\img\numpy logo.png" width="9.2%" height="10%">
+<img src="assets\img\pandas logo.png" width="9.2%" height="10%">
+<img src="assets\img\seaborn logo.png" width="11%" height="10%">
+<img src="assets\img\opensees logo.png" width="11.5%" height="10%">
+<img src="assets\img\scipy logo.png" width="7.7%" height="10%">
+<img src="assets\img\streamlit logo.png" width="10.3%" height="10%">
+<img src="assets\img\sympy logo.png" width="9.7%" height="10%">
+<img src="assets\img\tf logo.png" width="11%" height="10%">
+<img src="assets\img\keras logo.png" width="8.7%" height="10%">
+<img src="assets\img\sl logo.png" width="6.8%" height="10%">
+<img src="assets\img\pytorch logo.png" width="9.4%" height="10%">
 </p>
 
 
