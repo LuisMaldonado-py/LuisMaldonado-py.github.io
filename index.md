@@ -87,39 +87,17 @@ When something is important enough, you do it even if the odds are not in your f
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
 
 
-> Tratamiento de señales sismicas
->
-> Respuesta Dinamica de varios grados de Libertad con Newmark. 
->
-> Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
-
+Tratamiento de señales sismicas
+Respuesta Dinamica de varios grados de Libertad con Newmark. 
+Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em>Esacion UNICA (ICA) </em></center>
-
-<center>
-
-| Time | EW(cm/s²) | NS(cm/s²) | Z(cm/s²) |
-|:-----|:--------- |:----------|:---------|
-| 0.00 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.01 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.02 |  -0.2015  |  -0.7075	 |  1.3257  |
-| 0.03 |  -0.2015  |  -0.7075	 |  1.3257  |
-| ...  |     ...   |    ...    |   ...    |
-|218.05|	-0.6190  |  -0.4306	 |  -0.1228 |
-|218.06|  -0.4554	 |  -0.1593	 |  -0.0147 |
-</center>
-
 
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
 </p>
-
-El sistema de ecuaciones diferenciales que es usado en los problemas dinamicos define la ecuación:
-
-
-$$M \ddot{x} + C\dot{x}+ K x = M J a(t)$$
 
 
 <p align="center">
