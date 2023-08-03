@@ -21,6 +21,9 @@
 </p>
 
 ## **Automatizacion del Analisis Sísmico - E030**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
+
 Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo.
 
 > API de Etabs - Python
@@ -28,12 +31,9 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 
 When something is important enough, you do it even if the odds are not in your favor.
 
-<center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
-</center>
+
 
 <p align="center">
 <img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
@@ -45,6 +45,9 @@ When something is important enough, you do it even if the odds are not in your f
     <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
   </div>
 </div>
+
+<br>
+<br>
 
 ## Generacion de Edificaciones Parametricas
 Generacion de edificaciones parametricas en ETABS utilizando los conceptos de modelo generativo.
@@ -64,37 +67,33 @@ Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprend
 </div>
 
 <br>
-</br>
+<br>
 
 ## Automatizacion de generacion de Graficos
 Una necesidad de las empresas en la actualidad, es la búsqueda de la automatización de la
 mayoría de sus procesos, esto con el fin de obtener como beneficios la reducción de costos, el incremento de la producción de bienes y servicios, así como mejorar y mantener la calidad de los mismos.
 
-<p align="center">
-<img src="assets\img\calibracion.gif" width="100%" height="100%">
-</p>
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
   </div>
 </div>
 
 <br>
-</br>
+<br>
 
 ## Señales Sísmicas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
+
 Tratamiento de señales sismicas
 Respuesta Dinamica de varios grados de Libertad con Newmark. 
 Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
-<center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
 
-</center>
 
 <center><strong> Sismo de Piso 2007 </strong></center>
 <center><em> Estacion UNICA (ICA) </em></center>
@@ -107,7 +106,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
   </div>
 </div>
 
@@ -115,10 +114,6 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
 <img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
 </p>
-
-
-<br>
-</br>
 
 # **Diseño Sísmico**
 
@@ -128,12 +123,10 @@ Plantillas Excel y Jupyter Notebooks
 
 ## Diagrama de Interaccion de Columnas Rectangulares - ACI 318 y E.060
 
-<center>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
-</center>
+
 
 <p align="center">
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
@@ -142,7 +135,7 @@ Plantillas Excel y Jupyter Notebooks
 
 ## Diseño de Vigas y Zapatas
 
-<center> Memoerias de calculo para el analisis Sísmico</center>
+<center> Memorias de calculo para el analisis Sísmico</center>
 <p align= "center">
 <img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
 </p>
@@ -152,23 +145,29 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
 </p>
 
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
+  </div>
+</div>
+
+<br>
+
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
 
-<center>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
-
-</center>
-
-<center>
-
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/MConten.pdf)
 
-</center>
+
+
+
 
 <p align="center">
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
