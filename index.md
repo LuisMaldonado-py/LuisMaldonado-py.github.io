@@ -84,6 +84,7 @@ mayoría de sus procesos, esto con el fin de obtener como beneficios la reducci�
 
 
 ## Señales Sísmicas
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
 
@@ -126,7 +127,7 @@ Plantillas Excel y Jupyter Notebooks
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Excel | MathCad | JupyterNotebooks | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | 🐍Python</span>
   </div>
 </div>
 
@@ -134,15 +135,16 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
 </p>
 
+<br>
+
+## Diseño de Vigas y Zapatas
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Excel | MathCad | JupyterNotebooks | 🐍Python</span>
   </div>
 </div>
-
-
-## Diseño de Vigas y Zapatas
 
 <center> Memorias de calculo para el analisis Sísmico</center>
 <p align= "center">
