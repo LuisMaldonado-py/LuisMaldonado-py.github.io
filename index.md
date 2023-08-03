@@ -66,7 +66,6 @@ Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprend
 Una necesidad de las empresas en la actualidad, es la búsqueda de la automatización de la
 mayoría de sus procesos, esto con el fin de obtener como beneficios la reducción de costos, el incremento de la producción de bienes y servicios, así como mejorar y mantener la calidad de los mismos.
 
-
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
@@ -75,9 +74,8 @@ mayoría de sus procesos, esto con el fin de obtener como beneficios la reducci�
 </div>
 
 <p align="center">
-<img src="assets\img\calibracion.gif" width="100%" height="100%">
+<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
 </p>
-
 
 ## Señales Sísmicas
 
@@ -170,8 +168,8 @@ Plantillas Excel y Jupyter Notebooks
 </div>
 
 
-<p align= "center">
-<img src="assets\img\Dinamica Estructural.gif" width="100%" height="100%"> 
+<p align="center">
+<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
 </p>
 
 
