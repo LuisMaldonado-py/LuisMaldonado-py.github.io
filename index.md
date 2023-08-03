@@ -74,7 +74,7 @@ mayoría de sus procesos, esto con el fin de obtener como beneficios la reducci�
 </div>
 
 <p align="center">
-<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
+<img src="assets\img\calibrac.gif" width="100%" height="100%">
 </p>
 
 ## Señales Sísmicas
@@ -169,7 +169,7 @@ Plantillas Excel y Jupyter Notebooks
 
 
 <p align="center">
-<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
+<img src="assets\img\dinamic estruc.gif" width="100%" height="100%">
 </p>
 
 
