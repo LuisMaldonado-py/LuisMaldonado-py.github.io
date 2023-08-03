@@ -27,10 +27,6 @@
 
 Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo.
 
-> API de Etabs - Python
-> Segun los requerimientos de la Normativa Peruana E.030
-
-When something is important enough, you do it even if the odds are not in your favor.
 
 
 <div style="text-align: center;">
@@ -51,7 +47,7 @@ When something is important enough, you do it even if the odds are not in your f
 Generacion de edificaciones parametricas en ETABS utilizando los conceptos de modelo generativo.
 
 Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprendizaje que tiene como misión aprender cualquier tipo de distribución de datos, todo esto aplicado dentro del paradigma de aprendizaje no supervisado.
-> API de Etabs - Python
+
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
