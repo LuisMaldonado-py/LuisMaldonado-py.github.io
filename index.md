@@ -132,6 +132,13 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\DI columna.png" width="100%" height="100%"> 
 </p>
 
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | 🐍Python</span>
+  </div>
+</div>
+
 
 ## Diseño de Vigas y Zapatas
 
@@ -148,7 +155,7 @@ Plantillas Excel y Jupyter Notebooks
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Excel | MathCad | JupyterNotebooks | 🐍Python</span>
   </div>
 </div>
 
