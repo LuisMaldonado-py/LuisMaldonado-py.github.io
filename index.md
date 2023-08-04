@@ -32,7 +32,7 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprend
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
   </div>
 </div>
 
@@ -76,6 +76,25 @@ mayoría de sus procesos, esto con el fin de obtener como beneficios la reducci�
 <p align="center">
 <img src="assets\img\calib.gif" width="100%" height="100%">
 </p>
+
+## Automatizacion de Reportes de Analisis No Lineal
+<span style="color:red;"><b>Proyecto en proceso ...</b></span>
+
+Elaboracion de un reporte de analisís no lineal Pushover de un edificio de concreto armado utilizando el API de CSI ETABS.
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
+  </div>
+</div>
+
+<p align="left">
+<img src="assets\img\modelo.png" width="45%" height="100%">
+<img src="assets\img\modelo nl.png" width="53%" height="100%">
+<img src="assets\img\curva de capacidad.png" width="90%" height="100%">
+</p>
+
 
 ## Señales Sísmicas
 
