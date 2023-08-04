@@ -27,6 +27,7 @@
 
 Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo.
 
+Generacion de una plantilla de trabajo en Etabs a traves de codigo python. Configuracion personalizada de materiales, patrones de cargas, combinaciones de cargas, unidades de trabajo, nombre de secciones, etc.
 
 
 <div style="text-align: center;">
@@ -41,12 +42,13 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 <img src="assets\img\AAS.gif" width="100%" height="100%">
 </p>
 
+
+## Modelo Parametrico de Edificaciones  
+Generacion de edificaciones parametricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parametros geometricos, mecaninos y solicitaciones de la estructura.
+
+<dd>Con enfoques al diseño computacion y generativo.</dd>
+
 <br>
-
-## Generacion de Edificaciones Parametricas
-Generacion de edificaciones parametricas en ETABS utilizando los conceptos de modelo generativo.
-
-Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprendizaje que tiene como misión aprender cualquier tipo de distribución de datos, todo esto aplicado dentro del paradigma de aprendizaje no supervisado.
 
 
 <div style="text-align: center;">
@@ -63,8 +65,9 @@ Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprend
 <br>
 
 ## Automatizacion de generacion de Graficos
-Una necesidad de las empresas en la actualidad, es la búsqueda de la automatización de la
-mayoría de sus procesos, esto con el fin de obtener como beneficios la reducción de costos, el incremento de la producción de bienes y servicios, así como mejorar y mantener la calidad de los mismos.
+
+Lectura de una base de datos en cualquier tipo de formato (Excel, CSV, TXT, etc) y generacion de graficos de forma automatica, en la presentacion que se muestra, utilizando las librerias de Python.
+
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -92,7 +95,7 @@ Elaboracion de un reporte de analisís no lineal Pushover de un edificio de conc
 <p align="left">
 <img src="assets\img\modelo.png" width="45%" height="100%">
 <img src="assets\img\modelo nl.png" width="53%" height="100%">
-<img src="assets\img\curva de capacidad.png" width="90%" height="100%">
+<img src="assets\img\curva de capacidad.png" width="95%" height="100%">
 </p>
 
 
