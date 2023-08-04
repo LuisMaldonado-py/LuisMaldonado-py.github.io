@@ -38,7 +38,7 @@ Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la No
 
 
 <p align="center">
-<img src="assets\img\Autom Analis Sismic.gif" width="100%" height="10%">
+<img src="assets\img\AAS.gif" width="100%" height="100%">
 </p>
 
 <br>
@@ -57,7 +57,7 @@ Un modelo generativo es una arquitectura profunda dotada de algoritmos de aprend
 </div>
 
 <p align="center">
-<img src="assets\img\Edif Parametrico.gif" width="100%" height="100%">
+<img src="assets\img\edif parametrico.gif" width="100%" height="100%">
 </p>
 
 <br>
@@ -74,7 +74,7 @@ mayoría de sus procesos, esto con el fin de obtener como beneficios la reducci�
 </div>
 
 <p align="center">
-<img src="assets\img\calibrac.gif" width="100%" height="100%">
+<img src="assets\img\calib3.gif" width="100%" height="100%">
 </p>
 
 ## Señales Sísmicas
@@ -103,7 +103,9 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
 <p align="center">
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
-<img src="assets\img\basic_animation.gif" width="60%" height="20%"> 
+<img src="assets\img\basic_animation1.gif" width="32%" height="20%"> 
+<img src="assets\img\basic_animation3.gif" width="32%" height="20%"> 
+<img src="assets\img\basic_animation.gif" width="32%" height="20%"> 
 </p>
 
 # **Diseño Sísmico**
@@ -131,7 +133,7 @@ Plantillas Excel y Jupyter Notebooks
 
 <br>
 
-## Diseño de Vigas y Zapatas
+## Plantilla de Diseño Estructural de Vigas, columnas, zapatas u muros de contencion
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -142,12 +144,12 @@ Plantillas Excel y Jupyter Notebooks
 
 <center> Memorias de calculo para el analisis Sísmico</center>
 <p align= "center">
-<img src="assets\img\Mem Calc.gif" width="100%" height="60%"> 
+<img src="assets\img\Mem Calc2.gif" width="100%" height="100%"> 
 </p>
 
 <center> Zapata y Viga 3D</center>
 <p align= "left">
-<img src="assets\img\Secciones 3D.gif" width="100%" height="60%"> 
+<img src="assets\img\Secciones 3D.gif" width="100%" height="100%"> 
 </p>
 
 
@@ -169,7 +171,7 @@ Plantillas Excel y Jupyter Notebooks
 
 
 <p align="center">
-<img src="assets\img\dinamic estruc.gif" width="100%" height="100%">
+<img src="assets\img\dinamic struc.gif" width="100%" height="100%">
 </p>
 
 
@@ -184,12 +186,6 @@ Apuntes realizados en una pizarrar digital para el uso academico y profesional. 
 <img src="assets\img\Apuntes Estruc.png" width="100%" height="100%"> 
 </p>
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 |
-  </div>
-</div>
 
 <br>
 <br>
