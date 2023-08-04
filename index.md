@@ -20,14 +20,14 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
-## **Automatizacion del Analisis Sísmico - E030**
+## **Automatización del Análisis Sísmico - E030**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
-Extraccion de datos de un modelo de ETABS para el análisis sísmico segun la Normativa Peruana E.030 y generacion automatica de la memoria de calculo.
+Extracción de datos de un modelo de ETABS para el análisis sísmico según la Normativa Peruana E.030 y generación automática de la memoria de cálculo.
 
-Generacion de una plantilla de trabajo en Etabs a traves de codigo python. Configuracion personalizada de materiales, patrones de cargas, combinaciones de cargas, unidades de trabajo, nombre de secciones, etc.
+Generación de una plantilla de trabajo en Etabs a través de código Python. Configuración personalizada de materiales, patrones de cargas, combinaciones de cargas, unidades de trabajo, nombre de secciones, etc.
 
 
 <div style="text-align: center;">
@@ -43,10 +43,10 @@ Generacion de una plantilla de trabajo en Etabs a traves de codigo python. Confi
 </p>
 
 
-## Modelo Parametrico de Edificaciones  
-Generacion de edificaciones parametricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parametros geometricos, mecaninos y solicitaciones de la estructura.
+## Modelo Paramétrico de Edificaciones 
+Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
 
-<dd>Con enfoques al diseño computacion y generativo.</dd>
+<dd>Con enfoques al diseño computacion y generativo</dd>
 
 <br>
 
@@ -64,9 +64,9 @@ Generacion de edificaciones parametricas utilizando la API CSI Etabs y Python, o
 
 <br>
 
-## Automatizacion de generacion de Graficos
+## Automatización de generación de Gráficos
 
-Lectura de una base de datos en cualquier tipo de formato (Excel, CSV, TXT, etc) y generacion de graficos de forma automatica, en la presentacion que se muestra, utilizando las librerias de Python.
+Lectura de una Base de Datos en cualquier tipo de formato (Excel, CSV, TXT, etc.) y generación de gráficos de forma automática, en la presentación que se muestra, utilizando las librerías de Python.
 
 
 <div style="text-align: center;">
@@ -80,10 +80,10 @@ Lectura de una base de datos en cualquier tipo de formato (Excel, CSV, TXT, etc)
 <img src="assets\img\calib.gif" width="100%" height="100%">
 </p>
 
-## Automatizacion de Reportes de Analisis No Lineal
+## Automatización de Reportes de Análisis No Lineal
 <span style="color:red;"><b>Proyecto en proceso ...</b></span>
 
-Elaboracion de un reporte de analisís no lineal Pushover de un edificio de concreto armado utilizando el API de CSI ETABS.
+Elaboración de un reporte de análisis no lineal Pushover de un edificio de concreto armado utilizando el API de CSI ETABS.
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -104,8 +104,8 @@ Elaboracion de un reporte de analisís no lineal Pushover de un edificio de conc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
 
-Tratamiento de señales sismicas
-Respuesta Dinamica de varios grados de Libertad con Newmark. 
+Tratamiento de señales sísmicas
+Respuesta Dinámica de varios grados de Libertad con Newmark. 
 Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 
 <div style="text-align: center;">
@@ -133,7 +133,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 ## Zonas Sísmicas con GeoDatos
 <span style="color:red;"><b>Proyecto en proceso ...</b></span>
 
-Elaboracion de una mapa interactivo de las zonas sísmicas del Perú segunas la E.030 e informacion geojson.
+Elaboración de una mapa dinámico e interactivo de las zonas sísmicas del Perú según la E.030 e información de tipo *geojson*.
 
 
 
@@ -151,11 +151,11 @@ Elaboracion de una mapa interactivo de las zonas sísmicas del Perú segunas la 
 
 # **Diseño Sísmico**
 
-Memorias de Calculo realizadas para el diseño estructural de elementos estructurasles de concreto armado y albañileria bajo las consideraciones de las normas E030, E60 y E070.
+Memorias de Calculo realizadas para el diseño estructural de elementos estructurales de concreto armado y albañilería bajo las consideraciones de las normas E030, E60 y E070.
 Plantillas Excel y Jupyter Notebooks
 
 
-## Diagrama de Interaccion de Columnas Rectangulares - ACI 318 y E.060
+## Diagrama de Interacción de Columnas Rectangulares - ACI 318 y E.060
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
@@ -174,7 +174,7 @@ Plantillas Excel y Jupyter Notebooks
 
 <br>
 
-## Plantilla de Diseño Estructural de Vigas, columnas, zapatas u muros de contencion
+## Plantilla de Diseño Estructural de Vigas, columnas, zapatas u muros de contención
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -196,7 +196,7 @@ Plantillas Excel y Jupyter Notebooks
 
 
 
-## Dinamica Estructural
+## Dinámica Estructural
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_an%C3%A1lisis-s%C3%ADsmico-modal-espectral-de-varios-activity-6991112176723755011-7KZO?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Analisis-Sismico-Modal-Espectral-E030)
@@ -217,7 +217,7 @@ Plantillas Excel y Jupyter Notebooks
 
 
 ## Apuntes de Ingeniería Estructural
-Apuntes realizados en una pizarrar digital para el uso academico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
+Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
