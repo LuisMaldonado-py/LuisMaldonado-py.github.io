@@ -22,7 +22,7 @@
 
 ## **Automatización del Análisis Sísmico - E030**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
 Extracción de datos de un modelo de ETABS para el análisis sísmico según la Normativa Peruana E.030 y generación automática de la memoria de cálculo.
@@ -33,7 +33,7 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | Python</span>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 ## Modelo Paramétrico de Edificaciones 
 Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
 
-<dd>Con enfoques al diseño computacion y generativo</dd>
+<dd>Con enfoques al diseño computacional y generativo</dd>
 
 <br>
 
@@ -54,25 +54,25 @@ Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python,
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | Python</span>
   </div>
 </div>
 
 <p align="center">
 <img src="assets\img\edif parametric.gif" width="100%" height="100%">
+<img src="assets\img\Nave Industrial.gif" width="50%" height="100%">
 </p>
 
-<br>
 
 ## Automatización de generación de Gráficos
 
-Lectura de una Base de Datos en cualquier tipo de formato (Excel, CSV, TXT, etc.) y generación de gráficos de forma automática, en la presentación que se muestra, utilizando las librerías de Python.
+Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.) y generación de gráficos de forma automática, en la presentación que se muestra, utilizando las librerías de Python.
 
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | Python</span>
   </div>
 </div>
 
@@ -88,16 +88,26 @@ Elaboración de un reporte de análisis no lineal Pushover de un edificio de con
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | Python</span>
   </div>
 </div>
 
-<p align="left">
+<p align="center">
 <img src="assets\img\modelo.png" width="45%" height="100%">
 <img src="assets\img\modelo nl.png" width="53%" height="100%">
 <img src="assets\img\curva de capacidad.png" width="95%" height="100%">
 </p>
 
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 7/08/23 | STERA 3D | Python</span>
+  </div>
+</div>
+
+<p align="center">
+<img src="assets\img\STERA 3D.gif" width="100%" height="100%">
+</p>
 
 ## Señales Sísmicas
 
@@ -111,7 +121,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | Python</span>
   </div>
 </div>
 
@@ -140,7 +150,7 @@ Elaboración de una mapa dinámico e interactivo de las zonas sísmicas del Per�
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | GeoJson | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | GeoJson | Python</span>
   </div>
 </div>
 
@@ -159,12 +169,12 @@ Plantillas Excel y Jupyter Notebooks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
+[![Run in Colab](https://img.shields.io/badge/Colab-Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/LuisMaldonadoContributions/Diagrama-de-Interaccion/blob/main/DI%20Columna.ipynb)
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | Python</span>
   </div>
 </div>
 
@@ -174,12 +184,12 @@ Plantillas Excel y Jupyter Notebooks
 
 <br>
 
-## Plantilla de Diseño Estructural de Vigas, columnas, zapatas u muros de contención
+## Plantilla de Diseño Estructural de vigas, columnas, zapatas y muros de contención
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Excel | MathCad | JupyterNotebooks | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Excel | MathCad | JupyterNotebooks | Python</span>
   </div>
 </div>
 
@@ -197,16 +207,18 @@ Plantillas Excel y Jupyter Notebooks
 
 
 ## Dinámica Estructural
+Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistema masa resorte considerando el espectro de diseño de la E.030.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_an%C3%A1lisis-s%C3%ADsmico-modal-espectral-de-varios-activity-6991112176723755011-7KZO?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LuisMaldonadoContributions/Analisis-Sismico-Modal-Espectral-E030)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://https://colab.research.google.com/drive/1SzVg6V6j-yYRssfemBtEM5x1JsrlHdj4)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://https://colab.research.google.com/drive/1SzVg6V6j-yYRssfemBtEM5x1JsrlHdj4)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/ASME.pdf)
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | 🐍Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | JupyterNotebooks | Python</span>
   </div>
 </div>
 
@@ -219,7 +231,12 @@ Plantillas Excel y Jupyter Notebooks
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6976295315830149120-MzfP?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-puentes-activity-6955125070553874432-EMKT?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieraeda-diseaeho-sismorresistente-activity-6945123343889035264-A1zj?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_design-concrete-ingeniera-activity-6979090258873171968-rfVN?utm_source=share&utm_medium=member_desktop)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/MConten.pdf)
+
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
 
@@ -232,15 +249,17 @@ Apuntes realizados en una pizarra digital para el uso académico y profesional. 
 <br>
 
 <p align="center">
-<img src="assets\img\matplotlib.png" width="11%" height="10%">
+<img src="assets\img\pandas logo.png" width="9.4%" height="10%">
+<img src="assets\img\matplotlib.png" width="10.5%" height="10%">
+<img src="assets\img\numpy logo.png" width="9.5%" height="10%">
 <img src="assets\img\plotly logo.png" width="8.6%" height="10%"> 
-<img src="assets\img\numpy logo.png" width="9.2%" height="10%">
-<img src="assets\img\pandas logo.png" width="9.2%" height="10%">
 <img src="assets\img\seaborn logo.png" width="11%" height="10%">
+<img src="assets\img\scipy logo.png" width="8%" height="10%">
+<img src="assets\img\qt logo.png" width="2.9%" height="10%">
 <img src="assets\img\opensees logo.png" width="11.5%" height="10%">
-<img src="assets\img\scipy logo.png" width="7.7%" height="10%">
-<img src="assets\img\streamlit logo.png" width="10.3%" height="10%">
 <img src="assets\img\sympy logo.png" width="9.7%" height="10%">
+<img src="assets\img\streamlit logo.png" width="10.5%" height="10%">
+<img src="assets\img\opencv logo.png" width="9.4%" height="10%">
 <img src="assets\img\tf logo.png" width="11%" height="10%">
 <img src="assets\img\keras logo.png" width="8.7%" height="10%">
 <img src="assets\img\sl logo.png" width="6.8%" height="10%">
