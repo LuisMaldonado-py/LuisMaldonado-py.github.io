@@ -22,6 +22,7 @@
 
 ## **Automatización del Análisis Sísmico - E030**
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/AS.pdf)
 
@@ -59,7 +60,7 @@ Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python,
 </div>
 
 <p align="center">
-<img src="assets\img\edif parametric.gif" width="100%" height="100%">
+<img src="assets\img\edif param.gif" width="100%" height="100%">
 <img src="assets\img\Nave Industrial.gif" width="50%" height="100%">
 </p>
 
