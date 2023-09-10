@@ -229,6 +229,21 @@ Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistem
 </p>
 
 
+## Planos de Detalle en Ingeniería Estructural
+Detalles Estructurales realizados en Revit de diversos proyectos
+
+<p align="center">
+<img src="assets\img\detalle 4.jpg" width="48%" height="100%">
+<img src="assets\img\detalle 2.jpg" width="51%" height="100%">
+<img src="assets\img\detalle 3.jpg" width="49%" height="100%">
+<img src="assets\img\detalle 1.jpg" width="48%" height="100%">
+<img src="assets\img\detalle 5.jpg" width="98%" height="100%">
+<img src="assets\img\detalle 7.png" width="54%" height="100%">
+<img src="assets\img\detalle 6.png" width="45%" height="100%">
+<img src="assets\img\detalle 8.png" width="100%" height="100%">
+</p>
+
+
 ## Apuntes de Ingeniería Estructural
 Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
 
