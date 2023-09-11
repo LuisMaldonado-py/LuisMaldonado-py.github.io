@@ -194,7 +194,8 @@ Plantillas Excel y Jupyter Notebooks
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Diseño-de-Zapata-Aislada.pdf)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Diseño-de-Muros-de-Concreto-Armado.pdf)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Muro-de-Contencion.pdf)
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Analisis-Sismico.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Vigas.pdf)
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
