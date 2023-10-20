@@ -292,4 +292,7 @@ Apuntes realizados en una pizarra digital para el uso académico y profesional. 
 
 ---
 
+
+
+
 <center> © 2023 Luis Maldonado de la Torre </center>
