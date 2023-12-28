@@ -44,9 +44,9 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 </p>
 
 <p align="center">
-<img src="assets\img\Frame5.png" width="57.6%" height="100%">
-<img src="assets\img\Frame6.png" width="41.8%" height="100%">
-<img src="assets\img\Frame3.png" width="100.1%" height="100%">
+<img src="assets\img\Frame5.png" width="55%" height="100%">
+<img src="assets\img\Frame6.png" width="42%" height="100%">
+<img src="assets\img\Frame3.png" width="100%" height="100%">
 <img src="assets\img\basereactionplan.png" width="100%" height="100%">
 </p>
 
@@ -85,6 +85,8 @@ Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.
 
 <p align="center">
 <img src="assets\img\histeresis_final222.gif" width="100%" height="100%">
+<img src="assets\img\Result2.jpg" width="49%" height="100%">
+<img src="assets\img\Result3.jpg" width="49%" height="100%">
 </p>
 
 ## Automatización de Reportes de Análisis No Lineal
@@ -163,12 +165,42 @@ Elaboración de una mapa dinámico e interactivo de las zonas sísmicas del Per�
 
 # **Analisis Estructural con OpenseesPy**
 
+### **Analisis Estructural**
 
-
-Diagrama de Momento Curvatura
+Porticos 2D
 
 <p align="center">
-<img src="assets\img\Momento-Curvatura.png" width="66.3%" height="65%"> 
+<img src="assets\img\opsdeformada.png" width="51%" height="100%"> 
+<img src="assets\img\ops2d3d.png" width="47%" height="100%"> 
+<img src="assets\img\modo12d.png" width="32%" height="100%"> 
+<img src="assets\img\modo22d.png" width="32%" height="100%"> 
+<img src="assets\img\modo32d.png" width="32%" height="100%"> 
+</p>
+
+
+Porticos 3D
+
+<p align="center">
+<img src="assets\img\ops3D.png" width="49%" height="65%"> 
+<img src="assets\img\ops3D1.png" width="49%" height="65%"> 
+<img src="assets\img\ops3D2.png" width="49%" height="34%"> 
+<img src="assets\img\opsmodo3.png" width="50%" height="34%"> 
+</p>
+
+Armaduras 
+
+<p align="center">
+<img src="assets\img\opselementos.png" width="49%" height="65%"> 
+<img src="assets\img\opsloads.png" width="49%" height="65%"> 
+<img src="assets\img\opsaxial.png" width="49%" height="34%"> 
+<img src="assets\img\opsdeflexion.png" width="49%" height="34%"> 
+</p>
+
+
+### **Diagrama de Momento Curvatura**
+
+<p align="center">
+<img src="assets\img\Momento-Curvatura.png" width="66%" height="65%"> 
 <img src="assets\img\Seccion24x36.png" width="33%" height="34%"> 
 </p>
 
@@ -220,14 +252,12 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\Mem Calc.gif" width="100%" height="100%"> 
 </p>
 
-<center> Zapata y Viga 3D</center>
-<p align= "left">
-<img src="assets\img\Secciones 3D.gif" width="100%" height="100%"> 
-</p>
+
 
 
 <p align="left">
-<iframe src="assets\img\viga3D_interactivo.html" width="100%" height="600px"></iframe>
+<iframe src="assets\img\viga3D_interactivo.html" width="99%" height="400px"></iframe>
+<iframe src="assets\img\zapata3D_interactivo.html" width="99%" height="400px"></iframe>
 </p>
 
 
@@ -239,12 +269,12 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\13pisosmaplotlib.png" width="100%" height="100%">
 <img src="assets\img\Frame1.png" width="49.5%" height="100%">
 <img src="assets\img\Frame2.png" width="49.5%" height="100%">
-<img src="assets\img\rigidez.png" width="32.5%" height="100%">
-<img src="assets\img\desplazamiento.png" width="32.5%" height="100%">
-<img src="assets\img\deriva.png" width="32.9%" height="100%">
-<img src="assets\img\piso4.png" width="32.9%" height="100%">
-<img src="assets\img\piso5.png" width="32.9%" height="100%">
-<img src="assets\img\piso6.png" width="32.9%" height="100%">
+<img src="assets\img\rigidez.png" width="31.5%" height="100%">
+<img src="assets\img\desplazamiento.png" width="31.5%" height="100%">
+<img src="assets\img\deriva.png" width="31.9%" height="100%">
+<img src="assets\img\piso4.png" width="32%" height="100%">
+<img src="assets\img\piso5.png" width="32%" height="100%">
+<img src="assets\img\piso6.png" width="32%" height="100%">
 </p>
 
 ## Dinámica Estructural
