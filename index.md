@@ -141,6 +141,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
+<img src="assets\img\registros.png" width="95%" height="100%"> 
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%"> 
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%"> 
@@ -196,13 +197,25 @@ Armaduras
 <img src="assets\img\opsdeflexion.png" width="49%" height="34%"> 
 </p>
 
-
 ### **Diagrama de Momento Curvatura**
 
 <p align="center">
 <img src="assets\img\Momento-Curvatura.png" width="66%" height="65%"> 
 <img src="assets\img\Seccion24x36.png" width="33%" height="34%"> 
+<img src="assets\img\Mander_Col.png" width="100%" height="34%"> 
 </p>
+
+otros scripts
+
+<p align="center">
+<img src="assets\img\Figure_1.png" width="32%" height="100%"> 
+<img src="assets\img\Figure_2.png" width="32%" height="100%">
+<img src="assets\img\Figure_3.png" width="32.5%" height="100%">
+<img src="assets\img\Figure_5.0.png" width="100%" height="100%">
+<img src="assets\img\Figure_5.png" width="100%" height="100%">
+<img src="assets\img\Figure_6.png" width="100%" height="100%">
+</p>
+
 
 # **Diseño Sísmico**
 
@@ -253,12 +266,12 @@ Plantillas Excel y Jupyter Notebooks
 </p>
 
 
-
-
-<p align="left">
-<iframe src="assets\img\viga3D_interactivo.html" width="99%" height="400px"></iframe>
-<iframe src="assets\img\zapata3D_interactivo.html" width="99%" height="400px"></iframe>
+<p align= "center">
+<img src="assets\img\zapata y viga 3D.gif" width="100%" height="100%"> 
 </p>
+
+
+
 
 
 ## Etabs Matplotlib
@@ -300,6 +313,7 @@ Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistem
 <img src="assets\img\combderiva.png" width="32.5%" height="100%">
 <img src="assets\img\combshear.png" width="32.5%" height="100%">
 <img src="assets\img\modes2.png" width="100%" height="100%">
+<img src="assets\img\RS_impulsiva.gif" width="100%" height="100%">
 </p>
 
 
