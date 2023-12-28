@@ -43,6 +43,12 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 <img src="assets\img\AAS.gif" width="100%" height="100%">
 </p>
 
+<p align="center">
+<img src="assets\img\Frame5.png" width="57.6%" height="100%">
+<img src="assets\img\Frame6.png" width="41.8%" height="100%">
+<img src="assets\img\Frame3.png" width="100.1%" height="100%">
+<img src="assets\img\basereactionplan.png" width="100%" height="100%">
+</p>
 
 ## Modelo Paramétrico de Edificaciones 
 Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
@@ -78,7 +84,7 @@ Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.
 </div>
 
 <p align="center">
-<img src="assets\img\calib.gif" width="100%" height="100%">
+<img src="assets\img\histeresis_final222.gif" width="100%" height="100%">
 </p>
 
 ## Automatización de Reportes de Análisis No Lineal
@@ -94,9 +100,10 @@ Elaboración de un reporte de análisis no lineal Pushover de un edificio de con
 </div>
 
 <p align="center">
-<img src="assets\img\modelo.png" width="45%" height="100%">
+<img src="assets\img\modelo.png" width="46%" height="100%">
 <img src="assets\img\modelo nl.png" width="53%" height="100%">
-<img src="assets\img\curva de capacidad.png" width="95%" height="100%">
+<img src="assets\img\curva de capacidad.png" width="60%" height="100%">
+<img src="assets\img\fiberhingedresponsed.png" width="39%" height="100%">
 </p>
 
 <div style="text-align: center;">
@@ -132,9 +139,6 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%"> 
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%"> 
-</p>
-
-<p align="center">
 <img src="assets\img\basic_animation2.gif" width="100%" height="100%"> 
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%"> 
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%"> 
@@ -145,8 +149,6 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <span style="color:red;"><b>Proyecto en proceso ...</b></span>
 
 Elaboración de una mapa dinámico e interactivo de las zonas sísmicas del Perú según la E.030 e información de tipo *geojson*.
-
-
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
@@ -159,6 +161,16 @@ Elaboración de una mapa dinámico e interactivo de las zonas sísmicas del Per�
 <img src="assets\img\geodatos.gif" width="100%" height="100%"> 
 </p>
 
+# **Analisis Estructural con OpenseesPy**
+
+
+
+Diagrama de Momento Curvatura
+
+<p align="center">
+<img src="assets\img\Momento-Curvatura.png" width="66.3%" height="65%"> 
+<img src="assets\img\Seccion24x36.png" width="33%" height="34%"> 
+</p>
 
 # **Diseño Sísmico**
 
@@ -187,7 +199,6 @@ Plantillas Excel y Jupyter Notebooks
 
 ## Plantilla de Diseño Estructural de vigas, columnas, zapatas y muros de contención
 
-
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Muro-de-Albañileria-E070.pdf)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Muros-de-Albañileria-E070.pdf)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Espectro-E030.pdf)
@@ -215,7 +226,26 @@ Plantillas Excel y Jupyter Notebooks
 </p>
 
 
+<p align="left">
+<iframe src="assets\img\viga3D_interactivo.html" width="100%" height="600px"></iframe>
+</p>
 
+
+## Etabs Matplotlib
+
+<p align="center">
+<img src="assets\img\nave.png" width="100%" height="100%">
+<img src="assets\img\10pisos.png" width="65%" height="100%">
+<img src="assets\img\13pisosmaplotlib.png" width="100%" height="100%">
+<img src="assets\img\Frame1.png" width="49.5%" height="100%">
+<img src="assets\img\Frame2.png" width="49.5%" height="100%">
+<img src="assets\img\rigidez.png" width="32.5%" height="100%">
+<img src="assets\img\desplazamiento.png" width="32.5%" height="100%">
+<img src="assets\img\deriva.png" width="32.9%" height="100%">
+<img src="assets\img\piso4.png" width="32.9%" height="100%">
+<img src="assets\img\piso5.png" width="32.9%" height="100%">
+<img src="assets\img\piso6.png" width="32.9%" height="100%">
+</p>
 
 ## Dinámica Estructural
 Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistema masa resorte considerando el espectro de diseño de la E.030.
@@ -235,7 +265,11 @@ Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistem
 
 
 <p align="center">
-<img src="assets\img\dinamic struc.gif" width="100%" height="100%">
+<img src="assets\img\modes1.png" width="67%" height="100%">
+<img src="assets\img\combdispl.png" width="33.1%" height="100%">
+<img src="assets\img\combderiva.png" width="32.5%" height="100%">
+<img src="assets\img\combshear.png" width="32.5%" height="100%">
+<img src="assets\img\modes2.png" width="100%" height="100%">
 </p>
 
 
