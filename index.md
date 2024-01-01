@@ -62,8 +62,7 @@ Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python,
 </div>
 
 <p align="center">
-<img src="assets\img\edif param.gif" width="100%" height="100%">
-<img src="assets\img\Nave Industrial.gif" width="50%" height="100%">
+<img src="assets\img\3params.gif" width="100%" height="100%">
 </p>
 
 ## Automatización de generación de Gráficos
