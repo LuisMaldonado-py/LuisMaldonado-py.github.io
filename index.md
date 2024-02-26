@@ -136,7 +136,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\señal sismica.png" width="100%" height="100%">
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%">
 <img src="assets\img\registros.png" width="95%" height="100%">
-<img src="assets\img\basic_animation2.gif" width="90%" height="100%">
+<img src="assets\img\basic_animation2.gif" width="98%" height="60%">
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation.gif" width="32%" height="20%">
@@ -295,7 +295,7 @@ Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistem
 </div>
 
 <p align="center">
-<img src="assets\img\modes1.png" width="67%" height="100%">
+<img src="assets\img\modes1.png" width="72%" height="100%">
 <img src="assets\img\combdispl.png" width="33.5%" height="100%">
 <img src="assets\img\combderiva.png" width="32.5%" height="100%">
 <img src="assets\img\combshear.png" width="32.5%" height="100%">
