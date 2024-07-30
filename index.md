@@ -20,6 +20,13 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
+
+Una de las ventajas más significativas para los ingenieros estructurales que poseen habilidades en programación es la capacidad de optimizar tanto el tiempo como la precisión en sus diseños.
+
+Mediante la integración de técnicas de programación, es posible automatizar múltiples procesos, reduciendo así el tiempo invertido en tareas repetitivas y minimizando la probabilidad de errores humanos. Esta automatización no solo mejora la eficiencia, sino que también permite a los ingenieros dedicar más tiempo a aspectos críticos del diseño, análisis y optimización estructural.
+
+
+
 ## **Automatización del Análisis Sísmico - E030**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
@@ -47,6 +54,10 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 </p>
 
 ## Modelo Paramétrico de Edificaciones
+
+El dominio de herramientas de programación y su aplicación en la ingeniería estructural abre nuevas fronteras para la innovación. Con la experiencia y conocimientos adecuados, los ingenieros pueden desarrollar scripts y programas personalizados que se adapten a sus necesidades específicas, mejorando la calidad y consistencia de sus proyectos.
+
+La programación permite la creación de modelos paramétricos y algoritmos de optimización que pueden manejar complejidades imposibles de gestionar manualmente. Esto no solo acelera el proceso de diseño, sino que también proporciona resultados más precisos y confiables.
 
 Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
 
@@ -147,7 +158,8 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <p align="center">
 <img src="assets\img\señal sismica.png" width="100%" height="100%">
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%">
-<img src="assets\img\registros.png" width="95%" height="100%">
+<!-- <img src="assets\img\registros.png" width="95%" height="100%"> -->
+<img src="assets\img\espectrolog.png" width="98%" height="60%">
 <img src="assets\img\basic_animation2.gif" width="98%" height="60%">
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%">
@@ -241,7 +253,9 @@ Plantillas Excel y Jupyter Notebooks
 </div>
 
 <p align="center">
-<img src="assets\img\DI columna.png" width="100%" height="100%">
+<img src="assets\img\Column_interaccion3.png" width="100%" height="100%">
+<img src="assets\img\Wall_Detail.png" width="100%" height="100%">
+<img src="assets\img\viga_Design.png" width="100%" height="100%">
 </p>
 
 <br>
@@ -312,7 +326,6 @@ Analisis Sísmico Modal Espectral para Multiples Grados de Libertad de un Sistem
 <img src="assets\img\combderiva.png" width="32.5%" height="100%">
 <img src="assets\img\combshear.png" width="32.5%" height="100%">
 <img src="assets\img\modes2.png" width="100%" height="100%">
-<img src="assets\img\RS_impulsiva.gif" width="95%" height="100%">
 </p>
 
 ## Planos de Detalle en Ingeniería Estructural
