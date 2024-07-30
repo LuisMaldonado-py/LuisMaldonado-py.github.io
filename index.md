@@ -50,6 +50,16 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 
 Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
 
+Con este código, se automatizan alrededor del 90% de las etapas de diseño. Algunas de las tareas que este código realiza automáticamente incluyen:
+
+- Definición de Materiales.
+- Creación de Casos de Carga. 
+- Creación de Patrones de Carga.
+- Creación de Combinaciones de Carga
+- Asignación de cargas
+- Replicación de shells y cargas
+- Ejecución y análisis
+
 <dd>Con enfoques al diseño computacional y generativo</dd>
 
 <br>
@@ -80,6 +90,8 @@ Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.
 <img src="assets\img\histeresis_final222.gif" width="100%" height="100%">
 <img src="assets\img\Result2.jpg" width="49%" height="100%">
 <img src="assets\img\Result3.jpg" width="49%" height="100%">
+<img src="assets\img\sweep1.gif" width="49%" height="100%">
+<img src="assets\img\vl1.gif" width="49%" height="100%">
 </p>
 
 ## Automatización de Reportes de Análisis No Lineal
