@@ -30,7 +30,6 @@ Mediante la integración de técnicas de programación, es posible automatizar m
 [![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/DpsU4SCpCZ7SbFwS/)
 [![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/WofE1Lixi5LZhjJH/)
 
-
 [![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/file/d/1EMGVSoM2K8SJGKE4MJ2MZ2JrmoIiumJ0/view?usp=drive_link)
 [![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow
 )](https://drive.google.com/file/d/1LlEzeGJvEXrDNzB9wr1nmYjRkdT9Bbfg/view?usp=drive_link)
@@ -38,7 +37,6 @@ Mediante la integración de técnicas de programación, es posible automatizar m
 <p align="center">
 <img src="assets\img\Curso API Etabs.jpg" width="46%" >
 <img src="assets\img\Curso Python.jpg" width="50%">
-<p align="center">
 </p>
 
 ## **Automatización del Análisis Sísmico - E030**
@@ -68,8 +66,6 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 </p>
 
 ## Modelo Paramétrico de Edificaciones
-
-El dominio de herramientas de programación y su aplicación en la ingeniería estructural abre nuevas fronteras para la innovación. Con la experiencia y conocimientos adecuados, los ingenieros pueden desarrollar scripts y programas personalizados que se adapten a sus necesidades específicas, mejorando la calidad y consistencia de sus proyectos.
 
 La programación permite la creación de modelos paramétricos y algoritmos de optimización que pueden manejar complejidades imposibles de gestionar manualmente. Esto no solo acelera el proceso de diseño, sino que también proporciona resultados más precisos y confiables.
 
