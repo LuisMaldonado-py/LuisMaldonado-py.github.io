@@ -25,7 +25,21 @@ Una de las ventajas más significativas para los ingenieros estructurales que po
 
 Mediante la integración de técnicas de programación, es posible automatizar múltiples procesos, reduciendo así el tiempo invertido en tareas repetitivas y minimizando la probabilidad de errores humanos. Esta automatización no solo mejora la eficiencia, sino que también permite a los ingenieros dedicar más tiempo a aspectos críticos del diseño, análisis y optimización estructural.
 
+## **Cursos Python**
 
+[![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/DpsU4SCpCZ7SbFwS/)
+[![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/WofE1Lixi5LZhjJH/)
+
+
+[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/file/d/1EMGVSoM2K8SJGKE4MJ2MZ2JrmoIiumJ0/view?usp=drive_link)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-Temario_PDF-yellow?logo=Googledrive&logoColor=yellow
+)](https://drive.google.com/file/d/1LlEzeGJvEXrDNzB9wr1nmYjRkdT9Bbfg/view?usp=drive_link)
+
+<p align="center">
+<img src="assets\img\Curso API Etabs.jpg" width="46%" >
+<img src="assets\img\Curso Python.jpg" width="50%">
+<p align="center">
+</p>
 
 ## **Automatización del Análisis Sísmico - E030**
 
@@ -98,9 +112,9 @@ Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.
 </div>
 
 <p align="center">
-<img src="assets\img\histeresis_final222.gif" width="100%" height="100%">
-<img src="assets\img\Result2.jpg" width="49%" height="100%">
-<img src="assets\img\Result3.jpg" width="49%" height="100%">
+<img src="assets\img\histeresis_final222.gif" width="98%" height="100%">
+<img src="assets\img\Result2.jpg" width="48%" height="100%">
+<img src="assets\img\Result3.jpg" width="48%" height="100%">
 <img src="assets\img\sweep1.gif" width="49%" height="100%">
 <img src="assets\img\vl1.gif" width="49%" height="100%">
 </p>
@@ -160,7 +174,9 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\aceleraciones 2.png" width="100%" height="100%">
 <!-- <img src="assets\img\registros.png" width="95%" height="100%"> -->
 <img src="assets\img\espectrolog.png" width="98%" height="60%">
-<img src="assets\img\basic_animation2.gif" width="98%" height="60%">
+<!-- <img src="assets\img\basic_animation2.gif" width="98%" height="60%"> -->
+
+<img src="assets\img\animation7111.gif" width="98%" height="20%">
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation.gif" width="32%" height="20%">
