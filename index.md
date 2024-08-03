@@ -42,6 +42,8 @@ Mediante la integración de técnicas de programación, es posible automatizar m
 ## **Automatización del Análisis Sísmico - E030**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7172947460221194240--udh?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7193618084954353664-Msyf?utm_source=share&utm_medium=member_desktop)
 
 Extracción de datos de un modelo de ETABS para el análisis sísmico según la Normativa Peruana E.030 y generación automática de la memoria de cálculo.
 
@@ -62,7 +64,6 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 <img src="assets\img\Frame5.png" width="55%" height="100%">
 <img src="assets\img\Frame6.png" width="42%" height="100%">
 <img src="assets\img\Frame3.png" width="100%" height="100%">
-<img src="assets\img\basereactionplan.png" width="100%" height="100%">
 </p>
 
 ## Modelo Paramétrico de Edificaciones
@@ -80,6 +81,10 @@ Con este código, se automatizan alrededor del 90% de las etapas de diseño. Alg
 - Asignación de cargas
 - Replicación de shells y cargas
 - Ejecución y análisis
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7156653957082173440-277f?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7157768400155381762-3FgT?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_parametric-revit-dynamo-activity-7196539914572709888-GMUX?utm_source=share&utm_medium=member_desktop)
 
 <dd>Con enfoques al diseño computacional y generativo</dd>
 
@@ -298,6 +303,20 @@ Plantillas Excel y Jupyter Notebooks
 <p align= "center">
 <img src="assets\img\zapata y viga 3D.gif" width="100%" height="100%">
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_ingenieria-matplotlib-python-activity-7222254285730807810-6n8B?utm_source=share&utm_medium=member_desktop)
+
+<p align= "center">
+<img src="assets\img\elements3D.gif" width="100%" height="100%">
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-ingenieria-innovacion-activity-7221529577490124801-6Gql?utm_source=share&utm_medium=member_desktop)
+[![Run in Colab](https://img.shields.io/badge/Colab-Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Es2Y7soYl_z7D_FbG4Teh2VJKmQ1yzC5?usp=sharing)
+
+<p align= "center">
+<img src="assets\img\AE2D3D.gif" width="100%" height="100%">
+</p>
+
 
 ## Etabs Matplotlib
 
