@@ -63,9 +63,10 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 <p align="center">
 <img src="assets\img\Frame5.png" width="55%" height="100%">
 <img src="assets\img\Frame6.png" width="42%" height="100%">
-<img src="assets\img\API ETABS1.png" width="100%" height="100%">
-<img src="assets\img\API ETABS2.png" width="100%" height="100%">
-<img src="assets\img\API SAP.png" width="100%" height="100%">
+<img src="assets\img\API_ETABS1.gif" width="100%" height="100%">
+<img src="assets\img\API_ETABS2.gif" width="100%" height="100%">
+<img src="assets\img\API_SAP.gif" width="100%" height="100%">
+<img src="assets\img\API_SAP2.gif" width="100%" height="100%">
 </p>
 
 ## Modelo Paramétrico de Edificaciones
@@ -118,8 +119,11 @@ Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.
 <img src="assets\img\histeresis_final222.gif" width="98%" height="100%">
 <img src="assets\img\Result2.jpg" width="48%" height="100%">
 <img src="assets\img\Result3.jpg" width="48%" height="100%">
-<img src="assets\img\sweep1.gif" width="49%" height="100%">
-<img src="assets\img\vl1.gif" width="49%" height="100%">
+<img src="assets\img\din_pendulo.gif" width="48%" height="100%">
+<img src="assets\img\din_double_pendulum.gif" width="45%" height="100%">
+<img src="assets\img\sweep1.gif" width="47%" height="100%">
+<img src="assets\img\vl1.gif" width="47%" height="100%">
+<img src="assets\img\din_Newm_1gdl.gif" width="97%" height="100%">
 </p>
 
 ## Automatización de Reportes de Análisis No Lineal
@@ -180,7 +184,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <img src="assets\img\espectrolog.png" width="98%" height="60%">
 <!-- <img src="assets\img\basic_animation2.gif" width="98%" height="60%"> -->
 
-<img src="assets\img\animation7111.gif" width="98%" height="20%">
+<img src="assets\img\din_newmarkMGD.gif" width="98%" height="20%">
 <img src="assets\img\basic_animation1.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation3.gif" width="32%" height="20%">
 <img src="assets\img\basic_animation.gif" width="32%" height="20%">
@@ -280,6 +284,7 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\Column_interaccion3.png" width="100%" height="100%">
 <img src="assets\img\Wall_Detail.png" width="100%" height="100%">
 <img src="assets\img\viga_Design.png" width="100%" height="100%">
+<img src="assets\img\diseño de viga.png" width="100%" height="100%">
 </p>
 
 <br>
@@ -328,6 +333,7 @@ Plantillas Excel y Jupyter Notebooks
 ## Etabs Matplotlib
 
 <p align="center">
+<img src="assets\img\api_etabs.jpg" width="99%" height="100%">
 <img src="assets\img\nave.png" width="100%" height="100%">
 <img src="assets\img\10pisos.png" width="52%" height="100%">
 <img src="assets\img\Etabs10pisos1.png" width="47%" height="100%">
@@ -340,6 +346,7 @@ Plantillas Excel y Jupyter Notebooks
 <img src="assets\img\piso4.png" width="32.5%" height="100%">
 <img src="assets\img\piso5.png" width="32.5%" height="100%">
 <img src="assets\img\piso6.png" width="32.5%" height="100%">
+
 </p>
 
 ## Dinámica Estructural
